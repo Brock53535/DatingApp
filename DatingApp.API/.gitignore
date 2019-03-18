@@ -2,7 +2,4 @@
 bin
 obj
 *.db
-# SQL Server files
-*.mdf
-*.ldf
 db.lock
